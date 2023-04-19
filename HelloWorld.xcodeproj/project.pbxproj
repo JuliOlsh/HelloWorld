@@ -11,6 +11,7 @@
 		A3A74F6629DC565500796D19 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3A74F6529DC565500796D19 /* ContentView.swift */; };
 		A3A74F6829DC565700796D19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3A74F6729DC565700796D19 /* Assets.xcassets */; };
 		A3A74F6C29DC565700796D19 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3A74F6B29DC565700796D19 /* Preview Assets.xcassets */; };
+		A3A74F7329EF1F8500796D19 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3A74F7229EF1F8500796D19 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		A3A74F6729DC565700796D19 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A3A74F6929DC565700796D19 /* HelloWorld.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = HelloWorld.entitlements; sourceTree = "<group>"; };
 		A3A74F6B29DC565700796D19 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A3A74F7229EF1F8500796D19 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				A3A74F6329DC565500796D19 /* HelloWorldApp.swift */,
 				A3A74F6529DC565500796D19 /* ContentView.swift */,
+				A3A74F7229EF1F8500796D19 /* Launch Screen.storyboard */,
 				A3A74F6729DC565700796D19 /* Assets.xcassets */,
 				A3A74F6929DC565700796D19 /* HelloWorld.entitlements */,
 				A3A74F6A29DC565700796D19 /* Preview Content */,
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3A74F7329EF1F8500796D19 /* Launch Screen.storyboard in Resources */,
 				A3A74F6C29DC565700796D19 /* Preview Assets.xcassets in Resources */,
 				A3A74F6829DC565700796D19 /* Assets.xcassets in Resources */,
 			);
